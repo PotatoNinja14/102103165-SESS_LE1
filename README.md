@@ -1,5 +1,5 @@
-# 102103165-SESS_LE1
-# LAB EVAL - 1: SPEECH PROCESSING AND SYNTHESIS
+# Conversational AI: Speech Processing And Synthesis
+# Lab Evaluation 1
 
 Paper - Speech Commands: A Dataset for Limited-Vocabulary Speech Recognition
 
